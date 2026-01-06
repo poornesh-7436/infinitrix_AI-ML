@@ -98,13 +98,21 @@ Epoch | Train Loss | Val Loss
 
 
 Evaluating 10K test samples...
+
   Processed 0/10,000 samples
+  
   Processed 1,280/10,000 samples
+  
   Processed 2,560/10,000 samples
+  
   Processed 3,840/10,000 samples
+  
   Processed 5,120/10,000 samples
+  
   Processed 6,400/10,000 samples
+  
   Processed 7,680/10,000 samples
+  
   Processed 8,960/10,000 samples
 
 ✅ **FINAL 10K TEST RESULTS:**
