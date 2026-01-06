@@ -6,8 +6,11 @@ this is a repo for the maths (infinitrix club) task ai/ml domain , PS :- handwri
 **Word accuracy(WER) ~80%**
  
 |✅  FINAL 10K TEST RESULTS:     |
+
 | ->  Test CTC Loss: 2.121         | 
+
 | ->  Test CER: 1.5%               |
+
 | ->  Test Samples: 9,986          |
 
 
