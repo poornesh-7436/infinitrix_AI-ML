@@ -2,7 +2,8 @@
 this is a repo for the maths (infinitrix club) task ai/ml domain , PS :- handwritten text recognition 
 
 **98.5% Character Recognition** 
-**Word accuracy(WER) ~80% **
+
+**Word accuracy(WER) ~80%**
  
 |✅  FINAL 10K TEST RESULTS:     |
 | ->  Test CTC Loss: 2.121         | 
